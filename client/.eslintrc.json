@@ -1,0 +1,22 @@
+{
+	"extends": [
+		"eslint:recommended",
+		"plugin:@typescript-eslint/eslint-recommended",
+		"plugin:@typescript-eslint/recommended",
+		"plugin:react/recommended"
+	],
+	"parserOptions": {
+	"ecmaVersion": 6,
+	"project": "./tsconfig.json",
+	"sourceType": "module"
+	},
+	"ignorePatterns": [
+		"builds/",
+		"node_modules/"
+	],
+	"rules": {
+		"indent": "off",
+		"@typescript-eslint/indent": "off",
+		"@typescript-eslint/no-explicit-any": "off"
+	}
+}

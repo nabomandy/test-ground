@@ -1,0 +1,771 @@
+2022-03-15T12:11:27.347+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-15T12:11:32.396+0900	INFO	dbData/Logic.go:36	Query : select '1' as a 
+2022-03-15T12:11:32.397+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-03-15T12:13:26.755+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-15T12:14:09.955+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-15T12:15:54.236+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-21T20:07:18.898+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-21T20:07:18.901+0900	FATAL	dms-demo-service/main.go:81	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/dms-demo-service/main.go:81
+2022-03-21T20:07:31.111+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-22T12:58:33.582+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-22T12:59:37.902+0900	INFO	dms-demo-service/main.go:85	Starting server... port : 8080
+2022-03-23T10:17:56.161+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-23T10:17:56.164+0900	FATAL	test-ground/main.go:81	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:81
+2022-03-23T10:18:16.281+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-23T10:20:48.567+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-23T10:22:10.262+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-23T10:22:24.057+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T12:57:26.241+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T12:57:54.045+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:17:13.419+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:18:02.963+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:18:10.479+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:19:21.674+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:24:27.040+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:26:07.182+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:26:19.891+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:29:42.266+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T13:32:01.478+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T14:15:48.006+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T14:16:21.633+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T14:26:50.386+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T14:27:30.257+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T14:34:31.737+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T16:56:22.060+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T17:01:36.861+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T17:02:19.195+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T17:07:08.962+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T17:09:07.787+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T17:10:05.211+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T17:10:24.863+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-24T17:11:21.505+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:35:02.006+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:41:21.348+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:42:19.854+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:43:31.111+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:44:32.407+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:52:08.465+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:52:39.373+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:55:04.245+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T12:57:16.331+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:37:09.739+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:37:09.742+0900	FATAL	test-ground/main.go:81	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:81
+2022-03-28T15:37:22.279+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:40:31.083+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:41:25.301+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:41:45.369+0900	DEBUG	dbData/Logic.go:106	uu : <nil>
+2022-03-28T15:41:45.369+0900	DEBUG	dbData/Logic.go:106	uu : <nil>
+2022-03-28T15:41:45.369+0900	DEBUG	dbData/Logic.go:106	uu : <nil>
+2022-03-28T15:41:45.369+0900	DEBUG	dbData/Logic.go:106	uu : <nil>
+2022-03-28T15:41:45.369+0900	DEBUG	dbData/Logic.go:106	uu : <nil>
+2022-03-28T15:42:00.901+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-03-28T15:44:06.108+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:45:46.014+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:47:30.092+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:52:59.065+0900	DEBUG	dbData/Logic.go:102	uu : <nil>
+2022-03-28T15:52:59.225+0900	DEBUG	dbData/Logic.go:102	uu : <nil>
+2022-03-28T15:53:02.370+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:53:31.425+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:55:18.698+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:55:54.132+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:56:46.670+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:57:22.167+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:58:23.394+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T15:59:29.363+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T16:02:39.385+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T16:02:48.449+0900	DEBUG	dbData/Logic.go:113	uu : <nil>
+2022-03-28T16:02:48.449+0900	DEBUG	dbData/Logic.go:113	uu : <nil>
+2022-03-28T16:02:48.449+0900	DEBUG	dbData/Logic.go:113	uu : <nil>
+2022-03-28T16:02:48.449+0900	DEBUG	dbData/Logic.go:113	uu : <nil>
+2022-03-28T16:02:48.449+0900	DEBUG	dbData/Logic.go:113	uu : <nil>
+2022-03-28T16:11:00.575+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T16:11:12.682+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-28T17:58:41.456+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T08:50:32.557+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T08:51:15.955+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-03-29T08:51:58.010+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T08:52:12.198+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-03-29T09:03:07.877+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:04:19.737+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:06:07.057+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:09:19.875+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:19:55.720+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:21:31.133+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:23:25.396+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:23:40.159+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:24:42.834+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:28:56.973+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:29:01.902+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:29:18.595+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T09:29:44.867+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:16:38.143+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:23:45.541+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:30:53.656+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:31:15.934+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:34:28.965+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:44:23.779+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:47:59.295+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:49:50.100+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:50:07.075+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:50:24.972+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T10:51:35.006+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T11:29:13.342+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:23:27.793+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:23:27.796+0900	FATAL	test-ground/main.go:81	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:81
+2022-03-29T12:23:52.632+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:26:37.908+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:27:22.801+0900	INFO	dao/define.go:150	Code[400] Massage : invalid Request Format
+2022-03-29T12:29:05.371+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:29:20.006+0900	INFO	dao/define.go:150	Code[400] Massage : invalid Request Format
+2022-03-29T12:30:04.596+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:36:01.363+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:37:25.540+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:40:30.271+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:49:51.536+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T12:59:14.579+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T13:06:59.202+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-29T13:57:44.395+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T11:51:30.444+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T11:51:52.884+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T11:52:41.279+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T11:52:58.156+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T11:53:52.448+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:03:00.899+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:09:51.264+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:10:30.419+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:10:54.114+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-03-30T12:11:54.968+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:20:12.020+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:20:45.475+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:21:00.402+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:21:45.297+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:35:42.920+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:36:23.060+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:37:04.988+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:37:57.912+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:38:57.370+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:39:32.863+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:40:50.408+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:53:58.759+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T12:58:34.117+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:00:05.118+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-03-30T13:04:02.469+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:30:28.889+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:31:19.793+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:32:06.344+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-03-30T13:44:20.483+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:46:25.940+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:47:15.275+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:47:48.937+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:48:52.403+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:49:27.459+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:53:24.088+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:53:48.011+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:57:29.544+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T13:57:57.016+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:22:40.379+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:35:11.103+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:39:13.611+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:40:17.765+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:43:10.303+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:45:23.029+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:46:27.147+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:46:55.508+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:47:21.364+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:49:01.651+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T16:49:25.183+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:02:35.768+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:06:30.368+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:06:55.993+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:07:06.492+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:07:54.470+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:10:31.803+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:10:55.557+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:16:25.543+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:16:47.176+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:17:21.013+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:17:46.130+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:18:01.083+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:18:13.442+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:19:30.614+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-30T17:19:55.787+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T08:36:07.778+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T08:36:21.678+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T08:37:47.740+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T08:38:04.951+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T08:38:15.091+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T08:38:48.951+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T08:40:11.839+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:13:48.969+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:13:48.972+0900	FATAL	test-ground/main.go:81	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:81
+2022-03-31T12:13:58.595+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:13:58.599+0900	FATAL	test-ground/main.go:81	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:81
+2022-03-31T12:14:04.544+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:14:26.658+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:14:39.182+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:16:10.914+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:16:54.841+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:17:19.062+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:17:45.185+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:18:09.249+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:18:36.404+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:23:26.361+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:23:44.833+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:28:15.893+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:42:56.596+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T12:43:21.130+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T13:58:12.453+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:00:14.780+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:00:28.133+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:02:34.487+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:02:47.824+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:03:08.102+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:21:15.145+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:21:25.020+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:25:01.759+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:26:56.896+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:44:26.358+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:53:53.955+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:55:10.430+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:56:31.573+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:57:28.918+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T14:58:21.573+0900	INFO	test-ground/main.go:85	Starting server... port : 8080
+2022-03-31T16:57:40.955+0900	DEBUG	dbData/Logic copy.go:32	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" FROM "global_prop" AS "GlobalProp" WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+
+2022-03-31T16:57:40.960+0900	INFO	test-ground/main.go:89	Starting server... port : 8080
+2022-03-31T16:58:26.588+0900	DEBUG	dbData/Logic copy.go:33	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" FROM "global_prop" AS "GlobalProp" WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+
+2022-03-31T16:58:26.593+0900	INFO	test-ground/main.go:89	Starting server... port : 8080
+2022-03-31T17:25:42.095+0900	DEBUG	dbData/Logic copy.go:32	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-03-31T17:25:42.104+0900	INFO	test-ground/main.go:89	Starting server... port : 8080
+2022-03-31T17:31:08.261+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T08:48:18.967+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:17:54.491+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+// WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+// AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:18:02.550+0900	INFO	test-ground/main.go:91	Starting server... port : 8080
+2022-04-01T09:18:11.649+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+// WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+// AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:18:32.024+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+// WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+// AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:18:49.136+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+// WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+// AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:21:01.189+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+// WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+// AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:22:09.564+0900	DEBUG	dbData/Logic copy.go:33	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+// WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+// AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:23:29.512+0900	DEBUG	dbData/Logic copy.go:33	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+--AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:30:01.130+0900	INFO	test-ground/main.go:91	Starting server... port : 8080
+2022-04-01T09:31:26.329+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+--AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:31:26.337+0900	INFO	test-ground/main.go:91	Starting server... port : 8080
+2022-04-01T09:32:03.087+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+--AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:32:03.093+0900	INFO	test-ground/main.go:91	Starting server... port : 8080
+2022-04-01T09:33:16.034+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+--AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:33:16.039+0900	INFO	test-ground/main.go:91	Starting server... port : 8080
+2022-04-01T09:33:29.533+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+--AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:33:29.540+0900	INFO	test-ground/main.go:91	Starting server... port : 8080
+2022-04-01T09:49:41.526+0900	INFO	test-ground/main.go:101	Starting server... port : 8080
+2022-04-01T09:49:55.119+0900	INFO	test-ground/main.go:101	Starting server... port : 8080
+2022-04-01T09:50:19.146+0900	DEBUG	dbData/Logic copy.go:34	Query : 
+SELECT "prop_group", "prop_key", "prop_value", "prop_name", "etc", "upd_date" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO', 'LIVESTOCK_INFO');
+--WHERE "GlobalProp"."prop_group" IN ('SMS_INFO')
+--AND "GlobalProp"."prop_key" = 'SMS_INFO_SMS_AUTH_URL';
+
+2022-04-01T09:50:20.455+0900	INFO	test-ground/main.go:101	Starting server... port : 8080
+2022-04-04T12:09:35.985+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:09:37.742+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T12:09:49.068+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T12:09:51.974+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T12:09:55.508+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T12:10:35.087+0900	INFO	test-ground/main.go:98	Starting server... port : 8080
+2022-04-04T12:10:51.869+0900	INFO	test-ground/main.go:98	Starting server... port : 8080
+2022-04-04T12:15:19.307+0900	INFO	test-ground/main.go:98	Starting server... port : 8080
+2022-04-04T12:21:18.367+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:23:22.185+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:27:22.908+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:27:23.984+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:28:09.453+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:28:12.046+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T12:48:35.209+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:48:35.214+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:51:31.127+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:51:31.132+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:53:30.540+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:53:30.549+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:57:55.422+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:57:55.431+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:59:04.580+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:59:04.584+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T12:59:34.301+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T12:59:34.307+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:00:11.235+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T13:00:15.882+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:00:15.888+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:02:33.229+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:02:33.236+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:02:45.077+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:02:45.091+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:05:25.233+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:05:25.241+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:06:16.210+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T13:06:22.865+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-04T13:20:13.551+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:20:13.556+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:20:47.283+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:20:47.289+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:20:52.243+0900	DEBUG	dbData/Logic copy 2.go:36	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:20:55.437+0900	INFO	dao/define.go:161	Code[200] Massage : OK
+2022-04-04T13:21:47.517+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:21:47.522+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-04T13:21:59.876+0900	DEBUG	dbData/Logic copy 2.go:37	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-04T13:22:10.004+0900	INFO	dao/define.go:161	Code[200] Massage : OK
+2022-04-06T12:55:58.968+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T12:55:58.976+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-06T12:56:09.249+0900	DEBUG	dbData/Logic copy 2.go:37	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T12:57:09.501+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T12:57:09.506+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-06T12:57:55.960+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T12:57:55.967+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-06T12:58:44.652+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T12:58:44.658+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-06T12:59:15.262+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T12:59:15.268+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-06T14:41:32.145+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T14:41:32.151+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-06T14:42:31.902+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-06T14:42:31.912+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T11:12:09.534+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T11:12:09.540+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T14:45:29.940+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T14:45:29.946+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T14:47:32.615+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T14:47:32.622+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:08:31.968+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:08:31.973+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:08:31.975+0900	FATAL	test-ground/main.go:90	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:90
+2022-04-07T16:08:41.614+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:08:41.619+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:08:41.621+0900	FATAL	test-ground/main.go:90	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:90
+2022-04-07T16:08:50.732+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:08:50.738+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:08:50.740+0900	FATAL	test-ground/main.go:90	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:90
+2022-04-07T16:09:16.063+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:09:16.071+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:09:16.072+0900	FATAL	test-ground/main.go:90	listen: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+main.main.func1
+	C:/Users/USER/Downloads/test-ground/main.go:90
+2022-04-07T16:09:38.461+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:09:38.466+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:11:31.746+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:11:31.752+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:13:07.305+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:13:07.309+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:22:20.588+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:22:20.593+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:23:13.225+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:23:13.233+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:26:29.368+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:26:29.377+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:31:09.908+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:31:09.913+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:32:16.477+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:32:16.484+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:33:27.001+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:33:27.008+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:35:43.097+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:35:43.113+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:38:07.383+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:38:07.389+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:38:22.627+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:38:22.636+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:38:52.160+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:38:52.165+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:39:17.501+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:39:17.509+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:39:35.143+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:39:35.148+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:39:45.925+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:39:45.933+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:47:38.004+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:47:38.010+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:53:10.517+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:53:10.524+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T16:59:56.086+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T16:59:56.091+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T17:00:44.667+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T17:00:44.673+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T17:09:19.395+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T17:09:19.401+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T17:10:24.000+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T17:10:24.005+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T17:11:20.946+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T17:11:20.952+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T17:12:30.162+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T17:12:30.171+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-07T17:26:18.809+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-07T17:26:18.815+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-21T11:26:36.345+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-21T11:26:36.351+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-21T11:26:49.408+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-21T11:27:00.661+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-21T11:27:29.291+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-21T11:37:13.161+0900	INFO	dao/define.go:150	Code[200] Massage : success
+2022-04-21T11:37:55.872+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-21T11:37:55.876+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-21T11:38:37.990+0900	DEBUG	dbData/Logic copy.go:35	Query : 
+SELECT "prop_key", "prop_value" 
+FROM "global_prop" AS "GlobalProp" 
+WHERE "GlobalProp"."prop_group" IN ('SMS_INFO', 'MISSING_INFO','LIVESTOCK_INFO');
+
+2022-04-21T11:38:37.995+0900	INFO	test-ground/main.go:94	Starting server... port : 8080
+2022-04-21T11:38:56.055+0900	INFO	dao/define.go:150	Code[200] Massage : Key: 'InputTest.Page' Error:Field validation for 'Page' failed on the 'uuid' tag
+2022-04-21T11:39:24.696+0900	INFO	dao/define.go:150	Code[200] Massage : invalid character 'b' looking for beginning of value

@@ -1,0 +1,180 @@
+# github.com/360EntSecGroup-Skylar/excelize/v2 v2.3.1
+## explicit; go 1.15
+github.com/360EntSecGroup-Skylar/excelize/v2
+# github.com/Luzifer/go-openssl v2.0.0+incompatible
+## explicit
+github.com/Luzifer/go-openssl
+# github.com/caarlos0/env v3.5.0+incompatible
+## explicit
+github.com/caarlos0/env
+# github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
+## explicit; go 1.12
+# github.com/dhushon/decxls v0.0.0-20201203214035-0cd3f5389616
+## explicit; go 1.15
+github.com/dhushon/decxls
+# github.com/gin-contrib/pprof v1.3.0
+## explicit; go 1.14
+github.com/gin-contrib/pprof
+# github.com/gin-contrib/sse v0.1.0
+## explicit; go 1.12
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.6.3
+## explicit; go 1.13
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/internal/bytesconv
+github.com/gin-gonic/gin/internal/json
+github.com/gin-gonic/gin/render
+# github.com/go-playground/locales v0.13.0
+## explicit; go 1.13
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.17.0
+## explicit; go 1.13
+github.com/go-playground/universal-translator
+# github.com/go-playground/validator/v10 v10.2.0
+## explicit; go 1.13
+github.com/go-playground/validator/v10
+# github.com/go-resty/resty/v2 v2.5.0
+## explicit; go 1.11
+github.com/go-resty/resty/v2
+# github.com/go-sql-driver/mysql v1.5.0
+## explicit; go 1.10
+github.com/go-sql-driver/mysql
+# github.com/golang/protobuf v1.3.3
+## explicit; go 1.12
+github.com/golang/protobuf/proto
+# github.com/google/uuid v1.3.0
+## explicit
+# github.com/guregu/null v4.0.0+incompatible
+## explicit
+# github.com/jinzhu/gorm v1.9.16
+## explicit; go 1.12
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/mysql
+github.com/jinzhu/gorm/dialects/postgres
+# github.com/jinzhu/inflection v1.0.0
+## explicit
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.5
+## explicit; go 1.12
+github.com/jinzhu/now
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+# github.com/json-iterator/go v1.1.9
+## explicit; go 1.12
+github.com/json-iterator/go
+# github.com/leodido/go-urn v1.2.0
+## explicit; go 1.13
+github.com/leodido/go-urn
+# github.com/lib/pq v1.10.0
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/hstore
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/mattn/go-isatty v0.0.12
+## explicit; go 1.12
+github.com/mattn/go-isatty
+# github.com/mattn/go-sqlite3 v2.0.1+incompatible
+## explicit
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
+## explicit
+github.com/modern-go/reflect2
+# github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
+## explicit
+github.com/mohae/deepcopy
+# github.com/parjom/goutil v0.1.1
+## explicit; go 1.14
+github.com/parjom/goutil
+# github.com/richardlehane/mscfb v1.0.3
+## explicit
+github.com/richardlehane/mscfb
+# github.com/richardlehane/msoleps v1.0.1
+## explicit
+github.com/richardlehane/msoleps/types
+# github.com/robfig/cron/v3 v3.0.0
+## explicit; go 1.12
+github.com/robfig/cron/v3
+# github.com/spf13/cast v1.4.1
+## explicit
+github.com/spf13/cast
+# github.com/twpayne/go-geom v1.4.1
+## explicit; go 1.13
+github.com/twpayne/go-geom
+github.com/twpayne/go-geom/encoding/ewkb
+github.com/twpayne/go-geom/encoding/wkbcommon
+github.com/twpayne/go-geom/encoding/wkt
+# github.com/ugorji/go/codec v1.1.7
+## explicit
+github.com/ugorji/go/codec
+# github.com/xuri/efp v0.0.0-20201016154823-031c29024257
+## explicit
+github.com/xuri/efp
+# go.uber.org/atomic v1.6.0
+## explicit; go 1.13
+go.uber.org/atomic
+# go.uber.org/multierr v1.5.0
+## explicit; go 1.12
+go.uber.org/multierr
+# go.uber.org/zap v1.15.0
+## explicit; go 1.13
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
+## explicit; go 1.11
+golang.org/x/crypto/md4
+golang.org/x/crypto/ripemd160
+# golang.org/x/net v0.0.0-20201224014010-6772e930b67b
+## explicit; go 1.11
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+golang.org/x/net/publicsuffix
+# golang.org/x/sys v0.0.0-20201119102817-f84b799fce68
+## explicit; go 1.12
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.4
+## explicit; go 1.11
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
+# gopkg.in/guregu/null.v4 v4.0.0
+## explicit
+gopkg.in/guregu/null.v4
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0
+## explicit
+gopkg.in/natefinch/lumberjack.v2
+# gopkg.in/yaml.v2 v2.2.8
+## explicit
+gopkg.in/yaml.v2
+# gorm.io/gorm v1.23.3
+## explicit; go 1.14
+gorm.io/gorm
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/schema
+gorm.io/gorm/utils
